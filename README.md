@@ -6,15 +6,43 @@ learn elementary statistics
 How many xxx surveyed / Who be surveyed / How the survey was conducted
 
 ## Concepts
-
-constructs
+### 研究方法
+constructs 抽象
+Operational Definition	操作定义
 Population paramerters 总体参数
 Samples statistics 样本统计量 
 Lurking variables 潜在变量
+Predictor variables 自变量（预测变量）
+Dependent variables 因变量（结果）
 Extraneous factors 外界变量
+### 数据可视化
+frequency 在中文中指频数 = Dependent variables
+relative frequency 指的是频率（相对频数）
+Σ 号表示总和，它是希腊字母大写西格玛。f 代表频率（计数），p 代表比例
+### 3
+频率最高的成为众数（x）
+负偏斜分布
+mode 众数
+均匀分布 没有众数
+双峰分布 2个众数
+X~=sum /n
+u = sum / N 总体的平均值=值的综合/总体的个数
+□ 分布中的所有分值都影响平均值
+□ 平均值可用公式来描述
+□ 同一个总体中的多个样本会有相似的平均值
+□ 一个样本的平均值可以用来推论其所在的总体
+
+平均数：一组数据的总和除以这组数据个数所得到的商叫这组数据的平均数。 
+中位数：将一组数据按大小顺序排列，处在最中间位置的一个数叫做这组数据的中位数 。 偶数集：2个中间数的平均值
+众数：在一组数据中出现次数最多的数叫做这组数据的众数。
 
 ## Points
 correlation does not prove/imply causation 相关不代表因果
+正偏态分布 均值>中位数>众数
+
+## Charts
+histogram x：数值/可量化
+Bar graph x: 类型/可定性
 
 ## Cases
 
