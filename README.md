@@ -52,6 +52,8 @@ Outlier > Q3 + 1.5(IQR)
 相对频率（比例）
 绝对频率（频数）
 标准差数量
+Z值=x-平均值/标差
+
 
 ## Points
 correlation does not prove/imply causation 相关不代表因果
