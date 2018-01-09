@@ -55,6 +55,18 @@ Outlier > Q3 + 1.5(IQR)
 Z值=x-平均值/标差
 
 
+### 6
+PDF 概率密度函数
+1(100%) = 5% + 95%(68%+27%)
+贝塞尔校正系数，使标准偏差稍微大点，因为样本的标准偏差会低估变化性 
+曲线下的面积可视化链接 http://psych.colorado.edu/~mcclella/java/normal/handleNormal.html
+
+### 7
+中心极限定理 适用于所有总体（正态分布，斜态分布等）对于均值分布，其中每个均值都是样本量为 n 的均值，该分布的标准偏差就等于总体标准偏差除以平方根 n
+M 抽样
+SE = σ / sqrt(n)
+“抽样分布的标准偏差”也称为标准误差
+
 ## Points
 correlation does not prove/imply causation 相关不代表因果
 正偏态分布 均值>中位数>众数
